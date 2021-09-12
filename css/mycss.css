@@ -1,0 +1,13 @@
+h1 {
+text-align: right;
+background-color: yellow;
+padding: 50px;
+}
+p {
+background-color: red;
+padding: 15px;
+}
+strong {
+    font-size: 50px;
+    color: rgb(81, 35, 207);
+}
